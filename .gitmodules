@@ -1,0 +1,9 @@
+[submodule "suckless/dmenu"]
+	path = suckless/dmenu
+	url = https://github.com/Bakkeby/dmenu-flexipatch
+[submodule "suckless/dwm"]
+	path = suckless/dwm
+	url = https://github.com/Bakkeby/dwm-flexipatch
+[submodule "suckless/st"]
+	path = suckless/st
+	url = https://github.com/Bakkeby/st-flexipatch
