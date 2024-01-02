@@ -1,0 +1,6 @@
+*.o
+patches.h
+dmenu
+dmenu_path
+dmenu_run
+stest
