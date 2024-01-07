@@ -404,6 +404,7 @@ static const char *const autostart[] = {
 	"wal", "-i", "/home/nya/dev/rice/wallpapers/space.png", NULL,
 	"picom", NULL,
 	"slstatus", NULL,
+    "sxhkd", NULL,
 	NULL /* terminate */
 };
 #endif // COOL_AUTOSTART_PATCH

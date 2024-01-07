@@ -18,6 +18,8 @@ curl --silent -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 sh /tmp/omz.sh --unattended > /dev/null 2>&1
 
+rm /tmp/omz.sh -f
+
 echo "installing plugins"
 
 git clone --quiet https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting > /dev/null
